@@ -1,2 +1,18 @@
 # cordon-poison
+
 2002-2022
+
+# psychiater
+https://nl.wikipedia.org/wiki/Psychiater
+
+# assault
+https://en.wikipedia.org/wiki/Assault
+
+# janssen pharmaceutica
+https://en.wikipedia.org/wiki/Janssen_Pharmaceutica
+
+# biological warfare
+https://en.wikipedia.org/wiki/Biological_warfare
+
+# staat der nederlanden
+https://nl.wikipedia.org/wiki/Staat_der_Nederlanden
